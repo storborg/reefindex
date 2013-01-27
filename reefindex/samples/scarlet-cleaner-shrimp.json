@@ -1,0 +1,18 @@
+{
+  "order": "Decapoda",
+  "family": "Hippolytidae",
+  "genus": "Lysmata",
+
+  "latin": "Lysmata amboinensis",
+  "name": "Scarlet Cleaner Shrimp",
+
+  "description": "Lysmata amboinensis, the northern cleaner shrimp, scarlet cleaner shrimp, skunk cleaner shrimp or Pacific cleaner shrimp, is an omnivorous shrimp species, which will generally scavenge and eat parasites and dead tissue. L. amboinensis is naturally part of the reef ecosystem, and is widespread in the Red Sea and tropical Indo-Pacific.\nIt has been observed that fish with parasites may come to \"cleaning stations\" in the reef. Certain species of fish and several types of cleaner shrimp may assist the fish in large numbers and even go inside the mouth (and then to the gill cavity) without being eaten.",
+
+  "range": "Indonesia, Sri Lanka",
+  "diet": "",
+  "breeding": "",
+  "ethics": "",
+
+  "size_min": null,
+  "size_max": 5
+}

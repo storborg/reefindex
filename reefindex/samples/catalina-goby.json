@@ -1,0 +1,21 @@
+{
+  "order": "Perciformes",
+  "family": "Gobiidae",
+  "genus": "Lythrypnus",
+
+  "latin": "Lythrypnus dalli",
+  "name": "Catalina Goby",
+
+  "description": "The Catalina Goby is considered one of the most beautiful gobies. It has a bright red body with a vivid blue mask and vertical stripes on the front half of its body, and the tail has a yellow tint. This species is very peaceful and will not harm other fish, corals, or invertebrates. The Catalina Goby can be housed in Nano aquariums at least 10 gallons in size. The Catalina Goby may demonstrate aggression towards others of its own species if crowded, but groups may be housed together in large aquariums. The Catalina Goby is not typically shy and can often be seen perching on the live rock within its territory.",
+
+  "range": "Eastern Pacific",
+
+  "diet": "",
+
+  "breeding": "One of the most interesting aspects of the Catalina Goby is its reproductive behavior. Though each Catalina Goby has the reproductive tissues of both genders, an individual can only display one behavioral gender at any given time. If a Catalina Goby finds itself unsuccessful as one gender, it can switch to the other. Behavioral males are normally larger and have a longer dorsal fin with black tips on the longest dorsal fin rays. When ready to breed, a behavioral male chooses a cave in which to care for his brood. He lures the female inside, where she will attach her eggs to the walls of the cave. He will care for the eggs there until they hatch.",
+
+  "ethics": "",
+
+  "size_min": 2.0,
+  "size_max": 3.8
+}

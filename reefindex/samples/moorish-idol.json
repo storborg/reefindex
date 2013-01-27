@@ -1,0 +1,21 @@
+{
+  "order": "Perciformes",
+  "family": "Zanclidae",
+  "genus": "Zanclus",
+
+  "latin": "Zanclus cornutus",
+  "name": "Moorish Idol",
+
+  "description": "With distinctively compressed and disk-like bodies, moorish idols stand out in contrasting bands of black, white and yellow which make them attractive to aquarium keepers. The fish have relatively small fins, except for the dorsal fin whose 6 or 7 spines are dramatically elongated to form a trailing, sickle-shaped crest called the philomantis extension. Moorish idols have small terminal mouths at the end of long, tubular snouts; many long bristle-like teeth line the mouth. The moorish idol differs from butterflyfish in having a prominent black, triangular-shaped anal fin.\nThe eyes are set high on the fish's deeply-keeled bodies; in adults, perceptible bumps are located above each. The anal fin may have 2 or 3 spines. Moorish idols reach a maximum length of 23 centimeters (9.1 in). The sickle-like dorsal spines shorten with age.",
+
+  "range": "Generally denizens of shallow waters, moorish idols prefer flat reefs. The fish may be found at depths from 3 to 180 metres (9.8 to 590 ft), in both murky and clear conditions. The range of the moorish idol includes East Africa, Indian Ocean and the Ducie Islands; Hawaii, southern Japan and all of Micronesia; they are also found from the southern Gulf of California south to Peru.",
+
+  "diet": "Sponges, coral polyps, tunicates and other benthic invertebrates constitute the bulk of the moorish idol's diet in the wild. Captive moorish idols typically are very picky eaters. They will either eat nothing (common) and perish or eat everything (uncommon).",
+
+  "breeding": "Moorish idols are pelagic spawners; that is, they release eggs and sperm in the water column, leaving fertilized eggs to drift away with the currents. The impressive range of these fish may be explained by the unusually long larval stage. The fish reach a length of 7.5 centimeters (3.0 in) before becoming free-swimming juveniles.",
+
+  "ethics": "",
+
+  "size_min": null,
+  "size_max": 23
+}

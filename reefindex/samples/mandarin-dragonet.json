@@ -1,0 +1,20 @@
+{
+  "order": "Perciformes",
+  "family": "Callionymidae",
+  "genus": "Synchiropus",
+
+  "latin": "Synchiropus splendidus",
+  "name": "Mandarin Dragonet",
+
+  "description": "To date, S. splendidus is one of only two animal species known to have blue colouring because of cellular pigment, the other being the closely related LSD-fish Psychedelic Mandarin (S. picturatus). The name \"cyanophore\" was proposed for the blue chromatophores, or pigment-containing and light-reflecting cells. In all other known cases, the colour blue comes from thin-film interference from piles of flat, thin and reflecting purine crystals.",
+
+  "range": "The mandarinfish is native to the Pacific, ranging approximately from the Ryukyu Islands south to Australia.",
+
+  "diet": "They feed primarily on small crustaceans and other invertebrates. Based on the gut analyses of 7 wild fish Sadovy et al. (2001) determined that the mandarinfish has a mixed diet that consists of harpacticoid copepods, polychaete worms, small gastropods, gammaridean amphipods, fish eggs and ostracods. In the wild, feeding is continuous during daytime; the fish peck selectively at small prey trapped on coral substrate in a home range of many square meters.",
+
+  "breeding": "",
+  "ethics": "",
+
+  "size_min": null,
+  "size_max": 10
+}

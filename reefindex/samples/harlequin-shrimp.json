@@ -1,0 +1,20 @@
+{
+  "order": "Decapoda",
+  "family": "Hymenoceridae",
+  "genus": "Hymenocera",
+
+  "latin": "Hymenocera picta",
+  "name": "Harlequin Shrimp",
+
+  "description": "The Harlequin Shrimp have a white body with large light blue spots, and the males are slightly smaller than the female. It differs from its close cousin, the Hawaiian H. picta which has purple and red spots. It has large claws (chelipeds) which are for show only; it does not use them for hunting.",
+
+  "range": "Found at coral reefs in the tropical Indian and Pacific oceans.",
+
+  "diet": "Harlequin shrimp feed exclusively on starfish, including crown-of-thorns starfish. It does seem to prefer smaller, more sedentary starfish, but as these generally are not sufficiently numerous for its needs, it commonly will attack Acanthaster, both reducing its consumption of coral while under attack, and killing it within a few days.",
+
+  "breeding": "",
+  "ethics": "",
+
+  "size_min": null,
+  "size_max": 3.8
+}

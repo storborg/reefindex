@@ -1,0 +1,21 @@
+{
+  "order": "Scorpaeniformes",
+  "family": "Scorpaenidae",
+  "genus": "Pterois",
+
+  "latin": "Pterois volitans",
+  "name": "Red Lionfish",
+
+  "description": "The red lionfish (Pterois volitans) is a venomous coral reef fish in the family Scorpaenidae, order Scorpaeniformes. P. volitans is natively found in the Indo-Pacific region, but has become a huge invasive problem in the Caribbean Sea and along the East Coast of the United States, along with a similar species, Pterois miles. Red lionfish are clad in white stripes alternated with red, maroon, or brown. Adults can grow as large as 17 inches (43 cm) in length, while juveniles may be shorter than 1 inch (2.5 cm). They can live up to 10 years. It has large, venomous spines that protrude from the body like a mane, giving it the common name of the lionfish. The venomous spines make the fish inedible or deter most potential predators. Lionfish reproduce monthly and are able to quickly disperse during their larval stage for expansion of their invasive region. There are no definitive predators of the lionfish, and many organizations are promoting the harvest and consumption of lionfish in efforts to prevent further increases in the already high population densities.",
+
+  "range": "",
+
+  "diet": "In its invasive range, few predators of the lionfish have been documented. Most larger Atlantic and Caribbean fish and sharks that should be able to eat the lionfish have not recognized them as prey, likely due to the novelty of the fish in the invaded areas. Lionfish have, however, been found in the stomachs of Nassau and tiger groupers in the Bahamas. The lionfish themselves are voracious feeders and have outcompeted and filled the niche of the overfished snapper and grouper. When hunting, they corner prey using their large fins, then use their quick reflexes to swallow the prey whole. They hunt primarily from late afternoon to dawn. High rates of prey consumption, a wide variety of prey, and increasing abundance of the fish lead to concerns the fish may have a very active role in the already declining trend of fish densities. As the fish become more abundant, they are becoming a threat to the fragile ecosystems they have invaded. Between outcompeting similar fish and having a varied diet, the lionfish is drastically changing and disrupting the food chains holding the marine ecosystems together. As these chains are disrupted, declining densities of other fish populations are found, as well as declines in the overall diversity of coral reef areas.",
+
+  "breeding": "They are mainly a solitary species and courting is the only time they aggregate, generally one male with several females. Both P. volitans and P. miles are gonochoristic, only showing sexual dimorphism during reproduction. Similar courtship behaviors are observed in all Pterois species, including circling, sidewinding, following, and leading. The lionfish are mostly nocturnal, leading to the behaviors typically around nightfall and continuing through the night. After courtship, the female releases two egg masses that are fertilized by the male before floating to the surface. The eggs are kept together by a mucus which disintegrates within a few days to release larvae. Data suggest lionfish can reproduce monthly, through all seasons of the year.",
+
+  "ethics": "Two of the 15 species of Pterois, P. volitans and P. miles, have established themselves as significant invasive species off the East Coast of the United States and in the Caribbean. About 93% of the invasive lionfish population is P. volitans, also known as the red lionfish.[9] The red lionfish is found off the East Coast of the United States and the Caribbean Sea, and was likely first introduced off the Florida coast in the early to mid-1990s.[10] Adult lionfish specimens are now found along the US East Coast from Cape Hatteras, North Carolina, to Florida, and in Bermuda, the Bahamas, and throughout the Caribbean, including the Turks and Caicos, Haiti, Cuba, Dominican Republic, Puerto Rico, St. Croix, Belize, Honduras, Aruba and Mexico.",
+
+  "size_min": null,
+  "size_max": 43
+}

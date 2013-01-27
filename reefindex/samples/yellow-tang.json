@@ -1,0 +1,20 @@
+{
+  "order": "Perciformes",
+  "family": "Acanthuridae",
+  "genus": "Zebrasoma",
+
+  "latin": "Zebrasoma flavescens",
+  "name": "Yellow Tang",
+
+  "description": "Yellow tang are in the surgeonfish family. Adult fish can grow to 20 centimetres (7.9 in) in length, and 1–2 centimetres (0.39–0.79 in) in thickness. Adult males tend to be larger than females. Yellow tang are bright yellow in color. At night, the yellow coloring fades slightly and a prominent brownish patch develops in the middle with a horizontal white band. They rapidly resume their bright yellow color with daylight.\nThey have an arrow-like shape due to their dorsal and ventral fins being almost an extension to their bodies, and a long snout-like mouth used (as with other tangs) to eat algae and seaweeds that suffocate corals. They also have a sharp spine located near their tail. They have become a popular fish for marine aquarists of all skill levels, as the fish tends to be active, hardy, and nonaggressive when kept with dissimilar species.",
+
+  "range": "It is commonly found in shallow reefs, from 2–46 metres (6.6–151 ft) deep, in the Pacific and Indian Oceans, west of Hawaii and east of Japan. Hawaii is the most common place for aquarium harvesting, where up to 70% of the yellow tangs for the aquarium industry are sourced from.",
+
+  "diet": "In the wild, yellow tang feed on benthic turf algae and other marine plant material. In captivity they are commonly fed meat/fish based aquarium food, but the long term health effects of this diet are questionable. In the wild, yellow tang provide cleaner services to marine turtles, by removing algal growth from their shells.",
+
+  "breeding": "",
+  "ethics": "",
+
+  "size_min": null,
+  "size_max": 20
+}

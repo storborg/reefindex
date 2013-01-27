@@ -1,0 +1,33 @@
+<%def name="element(name=None, label=None)">
+  <div class="control-group">
+    % if name:
+      <label class="control-label" for="${name}">${label or h.prettify(name)}</label>
+    % elif label:
+      ${label}
+    % endif
+    <div class="controls">
+      ${caller.body()}
+    </div>
+  </div>
+</%def>
+
+
+<%def name="lvalue(value, label=None)">
+  <%self:element label="${label}">
+    ${value}
+  </%self:element>
+</%def>
+
+
+<%def name="ltext(name, value, label=None)">
+  <%self:element name="${name}" label="${label}">
+    <input type="text" name="${name}" value="${value}">
+  </%self:element>
+</%def>
+
+
+<%def name="ltextarea(name, value, label=None)">
+  <%self:element name="${name}" label="${label}">
+    <textarea rows="4" cols="50" name="${name}">${value}</textarea>
+  </%self:element>
+</%def>

@@ -1,0 +1,79 @@
+body {
+    color: #222;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0;
+    font-family: Times, serif;
+    -webkit-font-smoothing: antialiased;
+}
+a:link {
+    color: #0022ff;
+    text-decoration: none;
+}
+a:visited {
+    color: #5577ff;
+}
+a:hover {
+    color: #88aaff;
+}
+h1 {
+    font-size: 36px;
+    font-weight: normal;
+    line-height: 36px;
+}
+h2 {
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 36px;
+    color: #eb7966;
+}
+h3 {
+    font-weight: normal;
+    line-height: 36px;
+    border-bottom: 1px solid #ddd;
+}
+
+.header {
+    padding: 20px 40px;
+    background-color: #f9f7f7;
+}
+.header form {
+    float: right;
+}
+.header a {
+    line-height: 40px;
+    font-size: 36px;
+    color: #222;
+}
+.main {
+    padding: 0 40px 20px;
+}
+
+textarea, input[type=text], button {
+    line-height: 36px;
+    font-size: 18px;
+    font-family: Times, serif;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 0 8px;
+}
+
+.species {
+    border-bottom: 1px solid #ddd;
+}
+
+.control-group {
+    clear: both;
+    margin-top: 20px;
+}
+
+.control-label {
+    float: left;
+    text-align: right;
+    width: 160px;
+    padding-top: 10px;
+}
+
+.controls {
+    margin-left: 180px;
+}
