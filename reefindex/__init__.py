@@ -39,10 +39,4 @@ def main(global_config, **settings):
 
     config.scan('.views')
 
-    es_client = config.registry.es_client
-    es_client.ensure_all_mappings(model.Base)
-
-    q = DBSession.query(model.Species)
-    es_client.index_objects(q.all())
-
     return config.make_wsgi_app()
