@@ -57,6 +57,12 @@ textarea, input[type=text], button {
     border: 1px solid #ddd;
     padding: 0 8px;
 }
+.input-mini {
+    width: 80px;
+}
+.input-medium {
+    width: 180px;
+}
 
 .species {
     border-bottom: 1px solid #ddd;
