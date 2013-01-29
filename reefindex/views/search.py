@@ -1,12 +1,28 @@
+import math
+
 from pyramid.view import view_config
 from webhelpers.paginate import PageURL_WebOb, Page
 
 from .. import model
 
 
-def paginated_result(request, q, page_num=1):
+def paginated_result(request, q):
     page_url = PageURL_WebOb(request)
-    return Page(list(q.all()), page_num, url=page_url, items_per_page=50)
+    page_num = int(request.params.get('page') or 1)
+    per_page = int(request.params.get('per_page') or 5)
+
+    offset = (page_num - 1) * per_page
+    limit = per_page
+
+    q = q.limit(limit).offset(offset)
+    result = q.execute()
+
+    return Page(list(result),
+                page=page_num,
+                items_per_page=per_page,
+                item_count=result.count,
+                presliced_list=True,
+                url=page_url)
 
 
 @view_config(route_name='search', renderer='list.mako')
@@ -25,4 +41,4 @@ def search(request):
         q = q.filter_value_lower('size_max', lower)
 
     page = paginated_result(request, q)
-    return {'results': page}
+    return {'page': page}

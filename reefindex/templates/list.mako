@@ -15,9 +15,14 @@
 </%def>
 
 
-% for result in results:
+<div style="float:right">
+  ${page.pager()}
+</div>
+
+
+% for result in page:
   ${self.species(result)}
 % endfor
-% if len(results) == 0:
+% if len(page) == 0:
   <p>No results.</p>
 % endif

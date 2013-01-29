@@ -9,6 +9,8 @@ def index(request):
     es_client = request.registry.es_client
     q = es_client.query(model.Species).order_by('_id', desc=True)
 
+    #return {'page': q[1:4]}
+
     page = paginated_result(request, q)
 
-    return {'results': page}
+    return {'page': page}
