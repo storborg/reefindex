@@ -45,6 +45,14 @@ h3 {
     font-size: 36px;
     color: #222;
 }
+.header:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
 .main {
     padding: 0 40px 20px;
 }
@@ -58,10 +66,10 @@ textarea, input[type=text], button {
     padding: 0 8px;
 }
 .input-mini {
-    width: 80px;
+    width: 70px;
 }
 .input-medium {
-    width: 180px;
+    width: 163px;
 }
 
 .species {
@@ -83,3 +91,4 @@ textarea, input[type=text], button {
 .controls {
     margin-left: 180px;
 }
+

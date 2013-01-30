@@ -2,12 +2,14 @@
 <html>
   <head>
     <title>${self.title()}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="${request.static_url('reefindex:static/css/style.css')}">
   </head>
   <body>
     <div class="header">
-      ${self.search_form()}
       <a href="/">Reef Index</a>
+      ${self.search_form()}
     </div>
     <div class="main">
       ${next.body()}
